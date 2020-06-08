@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Mapa Saúde",
+    "slug": "mobile",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.deusdetefilho.mapasaude",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.deusdetefilho.mapasaude",
+      "versionCode": 1
+    }
+  }
+}
