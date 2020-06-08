@@ -11,9 +11,9 @@
 ## Web
 
 <p align="center">
-  <img alt="Screen" src="Git/0.jpg" width="300px">
-  <img alt="Screen" src="Git/1.jpg" width="300px">
-  <img alt="Screen" src="Git/2.jpg" width="300px">
+  <img alt="Screen" src="Git/0.png" width="300px">
+  <img alt="Screen" src="Git/1.png" width="300px">
+  <img alt="Screen" src="Git/2.png" width="300px">
 </p>
 
 
@@ -22,10 +22,10 @@
 
 ## Mobile
 <p align="center">
-  <img alt="Screen" src="Git/5.jpg" width="300px">
-  <img alt="Screen" src="Git/6.jpg" width="300px">
-  <img alt="Screen" src="Git/7.jpg" width="300px">
-  <img alt="Screen" src="Git/8.jpg" width="300px">
+  <img alt="Screen" src="Git/5.png" width="300px">
+  <img alt="Screen" src="Git/6.png" width="300px">
+  <img alt="Screen" src="Git/7.png" width="300px">
+  <img alt="Screen" src="Git/8.png" width="300px">
 </p>
 
 ## Technologies
