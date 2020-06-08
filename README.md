@@ -1,29 +1,36 @@
 <h1 align="center">
-    <img alt="Ecoleta" src="Git/logo.png" width="250px" />
+    <img alt="quero doar" src="Git/logo.png" />
 </h1>
 
 <h4 align="center">
-  🚀 Next Level Week #01
+  🚀 Doar
 </h4>
 
 <br>
 
+## Web
+
 <p align="center">
-  <img alt="Screen" src="Git/capa.jpg" width="100%">
+  <img alt="Screen" src="Git/0.jpg" width="300px">
+  <img alt="Screen" src="Git/1.jpg" width="300px">
+  <img alt="Screen" src="Git/2.jpg" width="300px">
 </p>
 
-## :rocket: Technologies
 
-This project was developed with the following technologies:
+
+<br>
+
+## Mobile
+<p align="center">
+  <img alt="Screen" src="Git/5.jpg" width="300px">
+  <img alt="Screen" src="Git/6.jpg" width="300px">
+  <img alt="Screen" src="Git/7.jpg" width="300px">
+  <img alt="Screen" src="Git/8.jpg" width="300px">
+</p>
+
+## Technologies
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
-
-## 💻 Project
-
-Developed at Next Level Week # 01, Ecoleta is a project in favor of facilitating the population's access to selective waste collection points, where lamps, cooking oil, batteries, etc. are collected at these points.
-With the correct disposal of waste we can further extend the life of our planet.
-
-# deusdete-doar
