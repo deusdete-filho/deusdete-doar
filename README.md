@@ -10,7 +10,8 @@ Desenvolvimento de uma aplicação para conectar pessoas que desejam fazer doaç
 
 
 
-Front-Web - consiste em cadastrar os pontos de doação junto a com a  localização.
+### Front-Web
+- consiste em cadastrar os pontos de doação junto a com a  localização.
 
 Front-Mobile - será onde o usuário encontrará os pontos mais próximo de doação e ainda entrar em contato.
 
@@ -18,13 +19,13 @@ Back-End: é responsável pelas funcionalidades das aplicações Web e Mobile
 
 
 
-🛠 Back-end
+### Back-end
 
 NodeJS, Typescript, Yup, Multer, KnexJS, SQLite, Service Pattern
 
 
 
-💻 Front-Web
+### Front-Web
 
 ReactJS, Typescript, Yup Validation, Styled-Components, Axios
 
