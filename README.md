@@ -9,35 +9,22 @@
 Desenvolvimento de uma aplicação para conectar pessoas que desejam fazer doação, à pessoas que estão precisando de uma doação.
 
 
+Desenvolvimento de uma aplicação full stack com finalidade de estudo, para conectar pessoas que desejam fazer doação, à pessoas que estão precisando de uma doação.
 
-### Front-Web
-- consiste em cadastrar os pontos de doação junto a com a  localização.
+## 💻 Front-End
 
-Front-Mobile - será onde o usuário encontrará os pontos mais próximo de doação e ainda entrar em contato.
+Consiste em cadastrar os pontos de doação junto a com a localização usando API pública do IBGE.
+Ferramentas: ReactJS, Typescript, Yup Validation, Styled-Components, Axios.
 
-Back-End: é responsável pelas funcionalidades das aplicações Web e Mobile
+## 📱 Mobile
 
+Será onde o usuário encontrará os pontos mais próximo de doação e ainda entrar em contato.
+Ferramentas: React Native, Typescript, Expo, Styled-Components, Axios.
 
+## 🛠 Back-End
 
-### Back-end
-
-NodeJS, Typescript, Yup, Multer, KnexJS, SQLite, Service Pattern
-
-
-
-### Front-Web
-
-ReactJS, Typescript, Yup Validation, Styled-Components, Axios
-
-
-
-📱Front-Mobile
-
-React Native, Typescript, Expo, Styled-Components, Axios
-
-
-
-#reactjs #typescript #reactnative #covid19 #react #expo 
+É responsável pelas funcionalidades das aplicações Web e Mobile.
+Ferramentas: NodeJS, Typescript, Yup, Multer, KnexJS, SQLite, Service Pattern
 <br>
 
 ## Web
