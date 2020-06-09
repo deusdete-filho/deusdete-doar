@@ -6,6 +6,37 @@
   🚀 Doar
 </h4>
 
+Desenvolvimento de uma aplicação para conectar pessoas que desejam fazer doação, à pessoas que estão precisando de uma doação.
+
+
+
+Front-Web - consiste em cadastrar os pontos de doação junto a com a  localização.
+
+Front-Mobile - será onde o usuário encontrará os pontos mais próximo de doação e ainda entrar em contato.
+
+Back-End: é responsável pelas funcionalidades das aplicações Web e Mobile
+
+
+
+🛠 Back-end
+
+NodeJS, Typescript, Yup, Multer, KnexJS, SQLite, Service Pattern
+
+
+
+💻 Front-Web
+
+ReactJS, Typescript, Yup Validation, Styled-Components, Axios
+
+
+
+📱Front-Mobile
+
+React Native, Typescript, Expo, Styled-Components, Axios
+
+
+
+#reactjs #typescript #reactnative #covid19 #react #expo 
 <br>
 
 ## Web
