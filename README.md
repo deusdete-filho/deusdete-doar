@@ -6,8 +6,6 @@
   🚀 Doar
 </h4>
 
-Desenvolvimento de uma aplicação para conectar pessoas que desejam fazer doação, à pessoas que estão precisando de uma doação.
-
 
 Desenvolvimento de uma aplicação full stack com finalidade de estudo, para conectar pessoas que desejam fazer doação, à pessoas que estão precisando de uma doação.
 
