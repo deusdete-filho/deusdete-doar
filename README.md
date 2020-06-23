@@ -22,7 +22,16 @@ Ferramentas: React Native, Typescript, Expo, Styled-Components, Axios.
 ## 🛠 Back-End
 
 É responsável pelas funcionalidades das aplicações Web e Mobile.
-Ferramentas: NodeJS, Typescript, Yup, Multer, KnexJS, SQLite, Service Pattern
+Ferramentas: 
+
+- NodeJS 
+- Typescript 
+- Yup
+- Multer
+- KnexJS
+- SQLite
+- Service Pattern
+
 <br>
 
 ## Web
